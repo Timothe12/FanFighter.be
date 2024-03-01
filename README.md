@@ -2,7 +2,7 @@
 ## Projet réalisé dans le cadre du cours d'UX Design avec le logiciel Figma
 ### 1. Thème imposé; "Les avions de chasse"
 ### 2. Réalisation du Wireframe et Mock-up
-### 3. Conception des visuels avec Figma (supports imposés; mobile, tablette, desktop.
+### 3. Conception des visuels avec Figma (supports imposés; mobile, tablette, desktop).
 ### 4. Réalisation du prototypage avec Figma
 
 ### Voici les 3 maquettes par format:
